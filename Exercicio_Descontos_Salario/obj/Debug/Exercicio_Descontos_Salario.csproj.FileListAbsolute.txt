@@ -1,0 +1,10 @@
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\bin\Debug\Exercicio_Descontos_Salario.exe.config
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\bin\Debug\Exercicio_Descontos_Salario.exe
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\bin\Debug\Exercicio_Descontos_Salario.pdb
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\obj\Debug\Exercicio_Descontos_Salario.csproj.AssemblyReference.cache
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\obj\Debug\Exercicio_Descontos_Salario.Form1.resources
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\obj\Debug\Exercicio_Descontos_Salario.Properties.Resources.resources
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\obj\Debug\Exercicio_Descontos_Salario.csproj.GenerateResource.cache
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\obj\Debug\Exercicio_Descontos_Salario.csproj.CoreCompileInputs.cache
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\obj\Debug\Exercicio_Descontos_Salario.exe
+C:\Users\abeca\Desktop\Exercicio_Descontos_Salario\Exercicio_Descontos_Salario\obj\Debug\Exercicio_Descontos_Salario.pdb
